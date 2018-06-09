@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James's Data Science Portfolio"
+title                    : "James Heo"
 title_separator          : "-"
 name                     : "James Heo"
 description              : "Data Science Portfolio"

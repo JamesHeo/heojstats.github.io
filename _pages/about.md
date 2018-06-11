@@ -17,8 +17,3 @@ I am a person who finds values from small things. I find happiness from the valu
 <br>
 <br>
 My dream is to become a data scientist who positively influences others with values and insights found from flowing data in the world.
-<br>
-<br>
-<br>
-<br>
-Contact Information: heojstats@gmail.com

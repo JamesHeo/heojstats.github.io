@@ -6,4 +6,5 @@ permalink: /about/
 ---
 I am a graduate from Miami University, Oxford. I have studied Statistics with Business Analytics minor.
 <br>
+<br>
 My goal is to be a data scientist who positively influences the world with flowing data.

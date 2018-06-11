@@ -7,7 +7,7 @@ permalink: /about/
 I am a graduate from Miami University, Oxford. I have studied Statistics with Business Analytics minor.
 <br>
 <br>
-Previously, I was a data visualization intern in IT service center at Miami University for a year. I have created user-interactive dashboards for incident management, project management, and process performance, using live datasets. These were referred to report to executive members in the department for weekly and monthly basis.
+Previously, I was a data visualization intern in IT service center at Miami University for a year. I have created user-friendly interactive dashboards for incident management, project management, and process performance, using live datasets. These were referred to report to executive members in the department for weekly and monthly basis.
 <br>
 <br>
 I believe that fully understanding and being familiar with datasets before starting data analysis is the most important part in order to deliver reliable insights. With having fully understood of the data, I cleanse, manipulate, analyze, and visualize them with various types of software.

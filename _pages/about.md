@@ -13,7 +13,7 @@ Previously, I was a data visualization intern in the IT service center at Miami 
 I believe that fully understanding and being familiar with datasets before starting data analysis is the most important part in order to deliver reliable insights. With a full understanding of the data, I cleanse, manipulate, analyze, and visualize the data with various types of software.
 <br>
 <br>
-I am a person who finds values from small things such as donating a few dollars can save many lives of children living in a poor environment in Africa. I find happiness from the values and sharing them to others.
+I am a person who finds values from small things. I find happiness from the values and sharing them to others.
 <br>
 <br>
 My dream is to become a data scientist who positively influences others with values and insights found from flowing data in the world.

@@ -4,7 +4,7 @@ date : 2018-06-12
 tags: [machine learning, data science, predictive analysis]
 #header:
 #  image: "/images/HomeCredit/name.jpg"
-excerpt: "Machine Learning, Home Credit, Data Science"
+#excerpt: "Machine Learning, Home Credit, Data Science"
 ---
 
 # H1 Heading

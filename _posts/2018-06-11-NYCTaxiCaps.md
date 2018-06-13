@@ -7,4 +7,4 @@ tags: [Time Series]
 excerpt: "Time Series, NYC Taxi Caps, Data Science"
 ---
 
-What about a [link](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)
+ShinyApp Link: [link](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)

@@ -6,7 +6,7 @@ tags: [Time Series]
 #  image: "/images/NYCTaxi.jpg"
 excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashboards, Data Visualization"
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi.jpg" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi.jpg" alt="NYC with taxi">
 
 ## Introduction
 The goal of this project is to find several taxi trip trends in the city of New York in 2017: number of trips and trip duration. It is built in shiny application format which gives users an ability to choose pick up and drop off locations along with month and day of the week.
@@ -21,10 +21,10 @@ The goal of this project is to find several taxi trip trends in the city of New 
 * Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations
 
 ## Hourly Trend
-JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that when there is a high traffic, the average trip duration increases. Additionally, the line plot below shows that the average trip duration is the highest between 7AM and 8AM which is a morning rush hour. The number of taxi trip is relatively high in the afternoon. 
-<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/TS.png" alt="linearly separable data">
+JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that when there is a high traffic, the average trip duration increases. Additionally, the line plot below shows that the average trip duration is the highest between 7AM and 8AM which is a morning rush hour. The number of taxi trip is relatively high in the afternoon.
+<img src="{{ site.url }}{{ site.baseurl }}/images/TS.png" alt="Time series line chart">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BC.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BC.png" alt="Time series bar chart">
 
 ## ShinyApp
 [link](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)

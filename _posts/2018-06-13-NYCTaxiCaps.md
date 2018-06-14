@@ -21,7 +21,9 @@ The goal of this project is to find several taxi trip trends in the city of New 
 * Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations
 
 ## Hourly Trend
-To look at the trend plots, please click the link provided below and submit button
+1. To look at the trend plots, please click the link provided below
+2. Please wait until the pickup and dropoff selections pop up
+3. Please click the submit button
 
 ### ShinyApp
 [link](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)

@@ -16,9 +16,15 @@ The goal of this project is to find several taxi trip trends in the city of New 
 * Over 200 million data observations
 
 ## Data Manipulation
-* The dataset is aggregated to the maximum level to build the plots to increase the loading speed for the application
-* The date column includes year, month, day, and time. It was necessary to separate the date column in order to aggregate the data accordingly
+* The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly
 * There are some NA values and observations. NA values are deleted and 95 quantile observations are selected
+* Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations
 
-# ShinyApp
+## Hourly Trend
+JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that when there is a high traffic, the average trip duration increases. Additionally, the line plot below shows that the average trip duration is the highest between 7AM and 8AM which is a morning rush hour. The number of taxi trip is relatively high in the afternoon. 
+<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/TS.png" alt="linearly separable data">
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BC.png" alt="linearly separable data">
+
+## ShinyApp
 [link](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)

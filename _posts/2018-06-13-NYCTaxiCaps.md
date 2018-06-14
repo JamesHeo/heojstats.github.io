@@ -22,7 +22,8 @@ The goal of this project is to find several taxi trip trends in the city of New 
 
 ## Hourly Trend
 JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that when there is a high traffic, the average trip duration increases. Additionally, the line plot below shows that the average trip duration is the highest between 7AM and 8AM which is a morning rush hour. The number of taxi trip is relatively high in the afternoon.
-<img src="{{ site.url }}{{ site.baseurl }}/images/TS.jpg" alt="line chart">
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/TS.jpg)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/BC.jpg" alt="bar chart">
 

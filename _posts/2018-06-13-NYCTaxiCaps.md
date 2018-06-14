@@ -31,6 +31,6 @@ JFK airport is selected as a pickup location and times square is selected as a d
 
 Feel free to play with the app!
 
-## Close look at the December 2017 Data
+## Close look of December 2017 Data
 ![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/LineChart.png)
 <img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BarChart.png" alt="bar chart">`

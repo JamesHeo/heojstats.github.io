@@ -14,8 +14,8 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 
 
 ### Data Overview
-<small>- Year of 2017 dataset for both green and yellow taxis, provided by the City of New York</small><br>
-<small>- Over 200 million data observations</small><br>
+<small>Year of 2017 dataset for both green and yellow taxis, provided by the City of New York</small><br>
+<small>Over 200 million data observations</small><br>
 
 ### Data Manipulation
 <small>The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly</small><br>

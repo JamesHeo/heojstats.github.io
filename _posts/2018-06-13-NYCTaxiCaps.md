@@ -17,7 +17,7 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 <small>Over 200 million data observations</small>
 
 ### Data Manipulation
-The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly</small>
+<small>The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly</small>
 <small>There are some NA values and observations. NA values are deleted and 95 quantile observations are selected</small>
 <small>Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations</small>
 

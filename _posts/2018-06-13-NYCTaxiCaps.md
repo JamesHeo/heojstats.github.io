@@ -37,5 +37,5 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 ![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/LineChart.png)
 <small>The line chart above shows the hourly trend of the taxi trip in New York City in December 2017. It shows that the number of taxi trips rapidly increases during the morning rush hour: between 7AM and 9AM. There are more customers who pay with their credit cards in the morning. On the other hand, there are more customers who pay with cash. The taxi trips increases and reaches the peak at 6PM. The number of taxi trips keep decreasing until 5AM.</small>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BarChart.png" alt="bar chart">`
+<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BarChart.png" alt="bar chart">
 <small>The bar chart above shows the daily trend of the taxi trip in New York City in December 2017. It shows that the number of the taxi trip is high on Fridays and Saturdays. However, the number is low when it is Sunday or during the holidays.</small>

@@ -6,7 +6,7 @@ tags: [Machine Learning]
 #  image: "/images/HomeCredit/name.jpg"
 excerpt: "Machine Learning, Home Credit, Data Science"
 ---
-
+<!--
 # H1 Heading
 
 ## H2 Heading
@@ -42,3 +42,4 @@ library(tidyverse)
 df <- read_csv("Some_file.csv")
 head(df)
 ```
+-->

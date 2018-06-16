@@ -14,16 +14,22 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 
 ### Data Overview
 <small>Year of 2017 dataset for both green and yellow taxis, provided by the City of New York</small>
+
 <small>Over 200 million data observations</small>
 
 ### Data Manipulation
 <small>The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly</small>
+
 <small>There are some NA values and observations. NA values are deleted and 95 quantile observations are selected</small>
+
 <small>Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations</small>
+
 
 ### Hourly Trend
 <small>To look at the trend plots, please click the link provided below</small>
+
 <small>Please wait until the pickup and dropoff selections pop up</small>
+
 <small>Please click the submit button</small>
 
 [ShinyApp](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)

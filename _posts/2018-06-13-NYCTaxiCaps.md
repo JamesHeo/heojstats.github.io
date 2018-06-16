@@ -5,14 +5,17 @@ tags: [Time Series]
 #header:
 #  image: "/images/NYCTaxi.jpg"
 excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashboards, Data Visualization"
+
 ---
+<font size="-2">
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi.jpg" alt="NYC with taxi">
 
 ## Introduction
-<small>The goal of this project is to find several taxi trip trends in the city of New York in 2017: number of trips and trip duration. It is built in shiny application format which gives users an ability to choose pick up and drop off locations along with month and day of the week.</small>
+The goal of this project is to find several taxi trip trends in the city of New York in 2017: number of trips and trip duration. It is built in shiny application format which gives users an ability to choose pick up and drop off locations along with month and day of the week.
 
 ## Data Overview
-* Year of 2017 dataset for both green and yellow taxis, provided by the City of New York
+* <small>Year of 2017 dataset for both green and yellow taxis, provided by the City of New York</small>
 * Over 200 million data observations
 
 ## Data Manipulation
@@ -38,3 +41,5 @@ The line chart above shows the hourly trend of the taxi trip in New York City in
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BarChart.png" alt="bar chart">`
 The bar chart above shows the daily trend of the taxi trip in New York City in December 2017. It shows that the number of the taxi trip is high on Fridays and Saturdays. However, the number is low when it is Sunday or during the holidays.
+
+</font>

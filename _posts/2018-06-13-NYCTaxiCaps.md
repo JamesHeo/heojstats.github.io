@@ -26,11 +26,15 @@ The goal of this project is to find several taxi trip trends in the city of New 
 3. Please click the submit button
 
 ### ShinyApp
-[link](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)
+[link to the app](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)
+<br>
 JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that when there is a high traffic, the average trip duration increases. Additionally, the line plot below shows that the average trip duration is the highest between 7AM and 8AM which is a morning rush hour. The number of taxi trip is relatively high in the afternoon.
 
 Feel free to play with the app!
 
 ## Close look of December 2017 Data
 ![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/LineChart.png)
+The line chart above shows the hourly trend of the taxi trip in New York City in December 2017. It shows that the number of taxi trips rapidly increases during the morning rush hour: between 7AM and 9AM. There are more customers who pay with their credit cards in the morning. On the other hand, there are more customers who pay with cash. The taxi trips increases and reaches the peak at 6PM. The number of taxi trips keep decreasing until 5AM.
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/BarChart.png" alt="bar chart">`
+The bar chart above shows the daily trend of the taxi trip in New York City in December 2017. It shows that the number of the taxi trip is high on Fridays and Saturdays. However, the number is low when it is Sunday or during the holidays.

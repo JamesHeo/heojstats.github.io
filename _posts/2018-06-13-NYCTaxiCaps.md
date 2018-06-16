@@ -31,7 +31,7 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 <br>
 <small>JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that, when there is a high traffic, the average trip duration increases. Additionally, the line plot shows that the average trip duration is the highest between 7AM and 8AM which is the morning rush hour. The number of taxi trip is relatively high in the afternoon.</small>
 
-<small>Feel free to play with the app!</small>
+<small>Please, feel free to play with the app</small>
 
 ### Close look of December 2017 Data
 ![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/LineChart.png)

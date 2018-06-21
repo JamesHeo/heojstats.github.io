@@ -10,28 +10,28 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 <img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi.jpg" alt="NYC with taxi">
 
 ### Introduction
-<small>The goal of this project is to find several taxi trip trends in the city of New York in 2017: number of trips and trip duration. It is built in shiny application format which gives users an ability to choose pick up and drop off locations along with month and day of the week. It also includes a few static visualizations for more details</small>
+<small>The goal of this project is to find several taxi trip trends in the city of New York in 2017: number of trips and trip duration. It is built in shiny application format which gives users an ability to choose pick up and drop off locations along with month and day of the week. It also includes a few static visualizations for more details.</small>
 
 
 ### Data Overview
-<small>Year of 2017 dataset for both green and yellow taxis, provided by the City of New York</small><br>
-<small>Over 200 million data observations</small><br>
+<small>Year of 2017 dataset for both green and yellow taxis, provided by the City of New York.</small><br>
+<small>Over 200 million data observations.</small><br>
 
 ### Data Manipulation
-<small>The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly</small><br>
-<small>There are some NA values and observations. NA values are deleted and 95 quantile observations are selected</small><br>
-<small>Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations</small><br>
+<small>The date column includes year, month, day, and time. It is necessary to separate the date column in order to aggregate the data accordingly.</small><br>
+<small>There are some NA values and observations. NA values are deleted and 95 quantile observations are selected.</small><br>
+<small>Beforehand, the dataset is aggregated to the maximum level to increase the loading speed for the application. The dataset is dropped down to 263 observations.</small><br>
 
 ### Hourly Trend
-<small>To look at the plots, please click the link provided below</small><br>
-<small>Please wait until the pickup and dropoff selections pop up</small><br>
-<small>Please click the submit button</small><br>
+<small>To look at the plots, please click the link provided below.</small><br>
+<small>Please wait until the pickup and dropoff selections pop up.</small><br>
+<small>Please click the submit button.</small><br>
 
 [ShinyApp](https://heojstats.shinyapps.io/nyc_taxi_cab_app/)
 <br>
 <small>JFK airport is selected as a pickup location and times square is selected as a dropoff location to give an example insight. In general, the trend of the average trip duration follows the trend of number of trips. It indicates that, when there is a high traffic, the average trip duration increases. Additionally, the line plot shows that the average trip duration is the highest between 7AM and 8AM which is the morning rush hour. The number of taxi trip is relatively high in the afternoon.</small>
 
-<small>Please, feel free to play with the app</small>
+<small>Please, feel free to play with the app.</small>
 
 ### Close look of December 2017 Data
 ![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/LineChart.png)

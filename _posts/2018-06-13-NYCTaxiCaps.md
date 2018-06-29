@@ -54,8 +54,6 @@ GROUP BY pu_zone
 ORDER BY 2 desc
       ")
 
-#Shows the top 5 areas
-grid.table(head(table,5))
 ```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/numtrips.png)

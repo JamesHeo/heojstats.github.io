@@ -58,6 +58,6 @@ ORDER BY 2 desc
 grid.table(head(table,5))
 ```
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/NYCTaxi/numtrips.png" alt="num_trips table">
+![alt]({{ site.url }}{{ site.baseurl }}/images/NYCTaxi/numtrips.png)
 
 <small>The result table shows that "upper east side north and south" in New York City Area has the highest number of pick-ups on Friday and Saturdays between 5:00PM and 7:00PM in December 2017. This insight would be significantly helpful for taxi or Uber drivers who would like to make their driving time more efficient.</small>

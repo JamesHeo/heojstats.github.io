@@ -41,7 +41,7 @@ excerpt: "Time Series, NYC Taxi Caps, Data Science, R Shiny, User-Friendly Dashb
 <small>The bar chart above shows the daily trend of the taxi trip in New York City in December 2017. It shows that the number of the taxi trip is high on Fridays and Saturdays. However, the number is low when it is Sunday or during the holiday season.</small>
 
 ### For more insights
-We have found that from December 2017 data that there are relatively more number of taxi trips on Fridays and Saturdays between 5:00PM and 7:00PM. Based on my personal experience when I was traveling, I have talked to few Uber drivers and a lot of them drive as their second job. Here, I would like to get some more insights for them so that they can spend driving time more efficiently for their limited time. The trend indicates that it is more efficient to drive on Fridays and Saturdays at between 5:00PM and 7:00PM. I have wrote a basic SQL query to answer a business question: Under the circumstance, in what area, the number of pick-ups would be high?
+We have found that from December 2017 data that there are relatively more number of taxi trips on Fridays and Saturdays between 5:00PM and 7:00PM. Based on my personal experience when I was traveling, I have talked to few Uber drivers and a lot of them drive as their second job. Here, I would like to get some more insights for them so that they can spend their limited driving time more efficiently. The trend indicates that it is more efficient to drive on Fridays and Saturdays at between 5:00PM and 7:00PM. I have wrote a basic SQL query to answer a business question: Under the circumstance, which area shows the highest number of pick-ups?
 
 ```r
 sqldf("
